@@ -5,6 +5,8 @@ cake
 pasta
 noodles
 
+beans
+pizza
 
 
 thank you :)
